@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing MS in Applied Data Science from Syracuse University, New York. 
 - 💞️ I’m looking to collaborate on handling structured and unstructured data by implementing complete Software Development Life Cycle (SDLC) with the help of data wrangling, 
       data preprocessing, predictive analytics with statistical reasoning and creating business solutions.
-- 📫 How to reach me :- agokhale@syr.edu; abhijit5october@gmail.com
+- 📫 How to reach me :- abhijit.s.gokhale@gmail.com
 
 
 <!---
